@@ -3,3 +3,4 @@ will ignore files mentioned
 *.net
 *.txt
 !eight.py
+[aeiou]*.pdf
