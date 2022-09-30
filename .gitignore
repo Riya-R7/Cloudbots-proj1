@@ -1,1 +1,4 @@
 will ignore files mentioned
+*.py
+*.net
+*.txt
