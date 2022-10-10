@@ -1,6 +1,2 @@
 will ignore files mentioned
-*.py
-*.net
-*.txt
-!eight.py
-[aeiou]*.pdf
+*riya.py
