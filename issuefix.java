@@ -3,3 +3,8 @@ now its in the master
 
 not again the code is modified in issue2 by dev2
 new line is added in the code to create conglict
+
+
+
+
+this conflict to be passed to manager
