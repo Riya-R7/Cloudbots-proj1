@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "this is a testing code"
+1) This is in the master branch
